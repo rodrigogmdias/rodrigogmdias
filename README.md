@@ -1,3 +1,6 @@
+
+<img src="https://github.com/rodrigogmdias/rodrigogmdias/blob/master/thumb_profile.png?raw=true" alt="Rodrigo Gomes Dias">
+
 ### Hi there 👋
 
 <!--
